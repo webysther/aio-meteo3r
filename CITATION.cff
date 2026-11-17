@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use aiometeo3r, please cite it as below.
+title: "aiometeo3r: async Python client for the measurements of the Meteo 3R app of Arpa Piemonte"
+type: software
+authors:
+  - family-names: Sperandio
+    given-names: Webysther
+repository-code: "https://github.com/webysther/aio-meteo3r"
+url: "https://github.com/webysther/aio-meteo3r"
+license: MIT
+keywords:
+  - Arpa Piemonte
+  - Meteo 3R
+  - river level
+  - hydrometer
+  - open data
+  - Italy

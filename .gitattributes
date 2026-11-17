@@ -1,0 +1,8 @@
+# Text files are stored and checked out with LF, as they are written
+* text=auto eol=lf
+
+# Unmodified copies of real files: kept byte for byte
+tests/fixtures/real/** -text
+
+# Binary files
+*.png binary
