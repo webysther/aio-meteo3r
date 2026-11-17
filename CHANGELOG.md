@@ -5,7 +5,7 @@ All notable changes to aiometeo3r are documented here. The format follows
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html): before 1.0, a
 minor version may change the API.
 
-## [0.1.0] - Unreleased
+## [0.1.0] - 2026-11-17
 
 First release.
 
