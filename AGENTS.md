@@ -42,6 +42,7 @@ src/aiometeo3r/
   urls.py        Host, REGISTRY_PATH, station_path(); const.py
 tests/           pytest; tests/server.py is a local HTTPS server standing in
                  for both hosts, answering 304 to conditional requests
+docs/            meteo3r-data.md: the study of the files of Meteo 3R
 ```
 
 The public API is what `aiometeo3r/__init__.py` exports in `__all__`, plus the
@@ -71,6 +72,11 @@ coverage gate is 95% with branches; keep it at 100%.
 - Never depend on the current date or time zone of the machine.
 
 ## Meteo 3R data
+
+Read [docs/meteo3r-data.md](docs/meteo3r-data.md) before researching the
+source again: the files, hosts, series, quantities and registry facts measured
+on 2026-11-16 and 17, and what is still unverified. Add what you measure to
+it, with the date.
 
 Facts that are easy to get wrong (measured on 2026-11-17, see the README):
 
