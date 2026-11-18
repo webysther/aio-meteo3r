@@ -1,7 +1,7 @@
 # Meteo 3R data: what was measured
 
 The files of Meteo 3R behind aiometeo3r, as studied for the
-[ARPA Piemonte](https://github.com/webysther/ha-arpa-piemonte) integration.
+[Arpa Piemonte](https://github.com/webysther/ha-arpa-piemonte) integration.
 
 Measured on 2026-11-16 and 17. The numbers are measurements of those days:
 measure again, politely, before relying on one. Anything not confirmed is

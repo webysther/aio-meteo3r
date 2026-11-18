@@ -8,7 +8,7 @@ of Meteo 3R, the weather app of Arpa Piemonte: the stations of the Piedmont
 network and their readings every 30 minutes. It is fully typed, has no Home
 Assistant dependency and is published to PyPI.
 
-Its main user is the Home Assistant integration ARPA Piemonte
+Its main user is the Home Assistant integration Arpa Piemonte
 (`arpa_piemonte`), which pins an exact version and falls back to the official
 sources of [aioarpapiemonte](https://github.com/webysther/aio-arpa-piemonte)
 when Meteo 3R fails. Meteo 3R parsing and HTTP fixes belong here; Home
